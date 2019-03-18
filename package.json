@@ -1,0 +1,17 @@
+{
+  "name": "flamegraph-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flamebearer": "^1.1.3",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.3.0"
+  }
+}
